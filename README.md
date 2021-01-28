@@ -8,7 +8,7 @@ Currently looking for a Backend Developer role.
 
 🔭🌱 Enjoying learning [bash](https://github.com/topics/bash) scripting, [Docker](https://github.com/docker) and [AWS](https://github.com/aws).
 
-## Skills
+### Skills
 
 - Node.js
 - Express.js
@@ -19,5 +19,7 @@ Currently looking for a Backend Developer role.
 - Bash
 - HTML
 - CSS
+
+### Contact
 
 📫 linkedin.com/in/mike-swann-715807103/
