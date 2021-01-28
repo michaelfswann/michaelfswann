@@ -16,6 +16,7 @@ Currently looking for a Backend Developer role.
 - Next.js
 - PostgreSQL
 - Docker
+- Linux
 - Bash
 - HTML
 - CSS
