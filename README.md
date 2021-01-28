@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I'm Michael.
 
-<!--
-**michaelfswann/michaelfswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 He/him
 
-Here are some ideas to get you started:
+Recently graduated from [School of Code](https://github.com/SchoolOfCode) Bootcamp 4.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for a Backend Developer role.
+
+🔭🌱 Enjoying learning [bash](https://github.com/topics/bash) scripting, [Docker](https://github.com/docker) and [AWS](https://github.com/aws).
+
+## Skills
+
+- Node.js
+- Express.js
+- React.js
+- Next.js
+- PostgreSQL
+- Docker
+- Bash
+- HTML
+- CSS
+
+📫 linkedin.com/in/mike-swann-715807103/
