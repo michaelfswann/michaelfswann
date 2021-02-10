@@ -13,4 +13,4 @@
 
 ### Contact
 
-📫 [website](https://mswann.dev)
+📫 [mikey@mswann.dev](mailto:mikey@mswann.dev)
