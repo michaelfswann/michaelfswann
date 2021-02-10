@@ -1,26 +1,16 @@
 # 👋 Hi, I'm Michael.
 
-🙋🏻‍  He/him
-
-Recently graduated from [School of Code](https://github.com/SchoolOfCode) Bootcamp 4.
-
-Currently looking for a Backend Developer role.
-
-🔭🌱 Enjoying upskilling and improving my [BASH](https://github.com/topics/bash) scripting, [Docker](https://github.com/docker) and [AWS](https://github.com/aws). Working on JavaScript projects and a bit of CodeWars for fun.
+ 👨‍💻 Experienced scientist with background in chemistry looking to gain commercial development experience. After moving into IT support early on my career and finding a personal aptitude, I retrained as a full-stack developer through the [School of Code](https://github.com/SchoolOfCode). I am a self-starter and enjoy learning about new technologies. Currently studying for AWS Cloud Practioner Certification: I'm passionate about cloud technologies. I really enjoying creating stuff: see my projects on here. 🌱
 
 ### Skills
-
-- Node.js
-- Express.js
-- React.js
-- Next.js
-- PostgreSQL
+- HTML - CSS - JavaScript
+- Node.js - Express.js - React.js - Next.js
+- PostgreSQL - MongoDB
 - Docker
-- Linux
+- Linux (Ubuntu) - Windows
 - BASH
-- HTML
-- CSS
+- Postman Student Expert
 
 ### Contact
 
-📫 linkedin.com/in/mike-swann-715807103/
+📫 [website](https://mswann.dev)
