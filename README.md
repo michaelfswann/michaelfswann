@@ -5,8 +5,10 @@
 ### Skills
 - HTML - CSS - JavaScript
 - Node.js - Express.js - React.js - Next.js
-- PostgreSQL - MongoDB
+- Python
+- PostgreSQL - MongoDB - DynamoDB
 - Docker
+- Serverless
 - Linux (Ubuntu) - Windows
 - BASH
 - Postman Student Expert
